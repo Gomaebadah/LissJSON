@@ -1,0 +1,15 @@
+﻿Build started 2017-10-01 오전 12:35:48.
+     1>Project "C:\Users\Gomebadah\Desktop\프로젝트-기타\JSON파서\Parser\Parser\Parser.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Parser.cpp
+         Parser.cpp
+     1>c:\users\gomebadah\desktop\프로젝트-기타\json파서\parser\parser\parser.cpp(93): warning C4715: 'Token::operator int' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gomebadah\Desktop\프로젝트-기타\JSON파서\Parser\Debug\Parser.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gomebadah\Desktop\프로젝트-기타\JSON파서\Parser\Debug\Parser.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gomebadah\Desktop\프로젝트-기타\JSON파서\Parser\Debug\Parser.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Parser.obj
+         Parser.vcxproj -> C:\Users\Gomebadah\Desktop\프로젝트-기타\JSON파서\Parser\Debug\Parser.exe
+     1>Done Building Project "C:\Users\Gomebadah\Desktop\프로젝트-기타\JSON파서\Parser\Parser\Parser.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.17
